@@ -1,0 +1,649 @@
+In the history of video games, the first-generation era refers to the computer game and video games, video game consoles, and video game handhelds available from 1972 to 1983. Notable consoles of the first generation included the Odyssey series released from 1972 to 1978, the Atari Home Pong released in 1975, the Coleco Telstar series released from 1976 to 1978 and the Color TV-Game series released from 1977 to 1980. The generation ended with the Computer TV-Game in 1980 but many manufactures had left the market prior to this due to the video game crash of 1977 and the start of the second generation.
+Games developed during this generation were native components of the consoles and unlike other generations, they were not contained on removable media that the user could switch out. There were a number of methods used to create variation in games such as the inclusion of external accessories and cartridges that could alter the way the game played. Graphical capabilities consisted of simple geometry such as dots, lines or blocks that would occupy only a single screen and wouldn't be capable of more than two colours (usually black and white) until later in the generation. Audio capabilities were limited with some consoles having no audio at all.
+The first generation of video games did not feature a microprocessor, and were based on custom codeless state machine computers consisting of discrete logic circuits comprising each element of the game itself.  Later consoles of this generation moved the bulk of the circuitry to custom "pong on a chip" ICs such as Atari's custom Pong chips and General Instruments' AY-3-8500 series.Magnavox, an already established American electronics company released the first console of the generation and while limited in its capabilities, it introduced a number of features and ideas that would become standard in the industry. In 1972, Nolan Bushnell and Ted Dabney founded Atari which would go on to be one of the most well known video game companies and play a vital role in the early generations of consoles. It was also late in this generation that Nintendo entered the video game console market for the first time.
+
+
+== History ==
+
+
+=== Interactive television ===
+In 1951, Ralph Baer conceived the idea of an interactive television while building a television set from scratch for Loral in the Bronx, New York. He explored these ideas further in 1966 when he was the Chief Engineer and manager of the Equipment Design Division at Sanders Associates. Baer created a simple two-player video game that could be displayed on a standard television set called Chase, where two dots chased each other around the screen. After a demonstration to the company's director of R&D Herbert Campman, some funding was allotted and the project was made official.  In 1967 Bill Harrison was brought on board, and a light gun was constructed from a toy rifle that was aimed at a target moved by another player.
+Bill Rusch joined the project to speed up development and soon a third machine-controlled dot was used to create a ping-pong game. With more funding additional games were created, and Baer had the idea of selling the product to cable TV companies, who could transmit static images as game backgrounds. A prototype was demonstrated in February 1968 to TelePrompTer Vice President Hubert Schlafly, who signed an agreement with Sanders. The Cable TV industry was in a slump during the late '60s and early '70s and a lack of funding meant other avenues had to be pursued. Development continued on the hardware and games resulting in the final "Brown Box" prototype, which had two controllers, a light gun and sixteen switches on the console that selected the game to be played. Baer approached various U.S. Television manufacturers and an agreement was eventually signed with Magnavox in late 1969. Magnavox's main alterations to the Brown Box were to use plug-in circuits to change the games, and to remove the color graphics capabilities in favor of color overlays in order to reduce manufacturing costs. It was released in 1972 as the Magnavox Odyssey.
+
+
+=== Digital electronics ===
+Like other game consoles Odyssey is a digital console. However, like all video game consoles up until the sixth generation, it uses analog circuitry for the output to match the televisions of its era, which were analog; also, like all later consoles from the Nintendo 64 onwards, it features analog game controllers. Due to these two facts, many collectors have mistakenly considered the Odyssey to be an analog console, with the misunderstanding becoming so widespread that Baer was eventually led to clarify that the Odyssey is indeed a digital console: all of the electronic signals exchanged between the various parts responsible for gameplay (ball and players generators, sync generators, diode matrix, etc.) are binary. The type of digital components used feature DTL, a common pre-TTL digital design component using discrete transistors and diodes.
+This was also the first involvement of Nintendo in video games. According to Martin Picard in the International Journal of Computer Game Research: "in 1971, Nintendo had -- even before the marketing of the first home console in the United States -- an alliance with the American pioneer Magnavox to develop and produce optoelectronic guns for the Odyssey (released in 1972), since it was similar to what Nintendo was able to offer in the Japanese toy market in 1970s".
+
+Early mainframe games in the United States were developed by individual users who programmed them in their spare time. In 1962, a group of students at the Massachusetts Institute of Technology programmed a game called Spacewar! on a DEC PDP-1. In 1970 Nolan Bushnell saw Spacewar! for the first time at the University of Utah. Deciding there was commercial potential in an arcade version, he hand-wired a custom computer capable of playing it on a black and white television. The resulting game, Computer Space, did not fare well commercially and Bushnell started looking for new ideas. In early 1972 he saw a demonstration of the Magnavox Odyssey, and hired Al Alcorn to produce an arcade version of the Odyssey's ping-pong game using Transistor-transistor logic, called Pong.On September 12, 1975, Epoch released Japan's first console, the TV Tennis Electrotennis, a home version of Pong, several months before the release of Home Pong in North America. A unique feature of the TV Tennis Electrotennis is that the console is wireless, functioning through a UHF antenna.Home video games achieved widespread popularity with the release of a home version of Pong in the Christmas of 1975. Its success sparked hundreds of clones, including the Coleco Telstar, which went on to be a success in its own right, with over a dozen models and the Binatone TV Master by British company Binatone.
+Japan's most successful console of the first generation was Nintendo's Color TV-Game, released in 1977. The Color TV Game sold 3 million units, the highest for a first generation console.
+
+
+== Home systems ==
+
+
+=== Odyssey Series ===
+
+In 1972 Magnavox released the worlds first home video game console, the Magnavox Odyssey. It was released into a market that hadn't even heard of the term "video game" and was marketed  as "the new electronic game of the future" and "closed-circuit electronic playground". It had many features that became industry standard in subsequent generations such as detachable controllers, an alternative controller (light gun) and interchangeable game cartridges. The Odyssey wasn't considered a commercial success although other companies with similar products had to pay a licensing fee for some time. For a time it was Sanders' most profitable line, even though many in the company had not been supportive of game development.In 1974 Philips purchased Magnavox and released a series of eight US Odyssey consoles from 1975-1977. These consoles differed from the original Odyssey in that they were dedicated consoles. Each subsequent release was an improvement over the previous, adding features such as additional game variations, on-screen displays and player controlled handicaps. Three Odyssey series consoles were also released in Europe with similar features from 1976-1978.
+
+
+=== Atari Home Pong ===
+
+In November 1975 Atari released a home version of their popular arcade game Pong. It was the first use of a microchip in an Atari product and was in development for two years under the lead of Allan Alcorn and Harold Lee. By Christmas of 1975 Atari had become a major company in the home console market due to Home Pong. Following Pong's success, Magnavox filed suit against Atari for infringement on its table tennis game for the Odyssey and ended up settling out of court with Atari becoming a licensee of Magnavox.
+
+
+=== Coleco Telstar Series ===
+
+Starting in 1976, Coleco released a series of 14 dedicated consoles up until 1978 where they suffered the effects of the 1977 crash and the start of the second generation causing near bankruptcy. The series featured a number of different styles of ball games and external accessories to enhance gamplay..The Telstar Arcade featured a unique triangular design that came with a light gun and steering wheel attached to the casing. The series was marketed at lower price than the competition and sold very well with over a million sales.
+
+
+=== Color TV-Game Series ===
+
+The Color TV-Game series of five consoles were released towards the end of the decade in Japan and were the first consoles to be released by Nintendo. The first, the Color TV-Game 6 was released in 1977 and the last, the Computer TV-Game, was released in 1980. Third console in the series, the Color TV-Game Racing 112 was the first project of Shigeru Miyamoto who went onto to become the creator of some of the best video games and franchises of all time. Despite only releasing in a single region, the series had the highest sales figures out of all the consoles in the first generation totalling around 3 million units sold.
+
+
+=== BSS 01 ===
+
+The BSS 01 is a home video game console that was marketed from 1980 to 1984 by the VEB Halbleiterwerk Frankfurt (Oder) only in East Germany for 500, 550 or 620 East German marks. The BSS 01 sold about 1,000 times.
+
+
+=== Comparison ===
+* = Does not include the separately-listed Magnavox Odyssey and the second-generation Magnavox Odyssey 2.
+
+
+=== Pong on a chip ===
+
+The table lists only the most known consoles and relative used chip.
+
+(1) Colors could be obtained adding the AY-3-8515 chip
+(2) Colors could be obtained adding the AY-3-8615 chip
+(3) PAL version code is 7601
+(4) Advanced chip compared to classic Pong-in-a-chip: include a microcontroller and a little RAM.
+
+
+== See also ==
+
+Home computer
+History of computing hardware (1960s–present)
+
+
+== References ==
+
+
+== Further reading ==
+How Video Games Invaded the Home TV Set by Ralph Baer
+"A History of Home Video Game Consoles". Archived from the original on December 26, 2007. by Michael Miller
+
+
+== External links ==
+The Dot Eaters: Bits From the Primordial Ooze
+ClassicGaming Expo 2000: Baer Describes the Birth of Videogames
+Video Games Turn 40 (1UP.com)In the history of video games, the second-generation era refers to computer and video games, video game consoles, and handheld video game consoles available from 1976 to 1992. Notable platforms of the second generation include the Fairchild Channel F, Atari 2600, Intellivision, Odyssey², and ColecoVision. The generation began in November 1976 with the release of the Fairchild Channel F. This was followed by the Atari 2600 in 1977, Magnavox Odyssey² in 1978, Intellivision in 1980 and then the Emerson Arcadia 2001, ColecoVision, Atari 5200, and Vectrex, all in 1982. By the end of the era, there were over 15 different consoles. It coincided with, and was partly fueled by, the golden age of arcade video games. This peak era of popularity and innovation for the medium resulted in many games for second generation home consoles being ports of arcade games. Space Invaders, the first arcade game to be ported, was released in 1980 for the Atari 2600. Coleco packaged Nintendo's Donkey Kong with the ColecoVision when it was released on August 1982.
+Built-in games, like those from the first generation, saw limited use during this era. This was due to the invention of game cartridges by Jerry Lawson for the Fairchild Channel F. The first system of the generation and some others, such as the RCA Studio II, still came with built-in games while also having the capability of utilizing cartridges. The popularity of game cartridges grew after the release of the Atari 2600. From the late 1970s to the mid-1990s, most home video game systems used cartridges until the technology was replaced by optical discs. The Fairchild Channel F was also the first console to use a microprocessor, which was the driving technology that allowed the consoles to use cartridges. Other technology such as screen resolution, color graphics, audio, and AI simulation.was also improved during this era. 
+In 1979, gaming giant Activision was created by former Atari programmers and was the first third-party developer of video games. By 1982, the shelf capacity of toy stores was overflowing with an overabundance of consoles, over-hyped game releases, and low-quality games from new third-party developers. An over-saturation of consoles and games, coupled with poor knowledge of the market, saw the video game industry crash in 1983 and marked the start of the next generation. Beginning in December 1982 and stretching through all of 1984, the crash of 1983 caused major disruption to the North American market. Some developers collapsed and almost no new games were released in 1984. The market did not fully recover until the 3rd generation. The second generation officially ended on January 1, 1992, with the discontinuation of the Atari 2600.
+
+
+== Home systems ==
+
+
+=== Fairchild Channel F ===
+
+The Fairchild VES was released by Fairchild Semiconductor in November 1976 and was the first console of the second generation. It was the world's first CPU-based video game console, introducing the cartridge-based game code storage format.  When Atari released their similarly titled console the "VCS", Fairchild renamed the VES to the Fairchild Channel F the following year. The console featured a pause button that allowed players to freeze a game. This allowed them to a break without the need to reset or turn off the console so they did not lose their current game progress. Fairchild released twenty-six different cartridges for the system, with up to four games being on each cartridge. The console came with two pre-installed games, Hockey and Tennis.
+
+
+=== Atari 2600 & 5200 ===
+
+In 1977, Atari released its CPU-based console called the Video Computer System (VCS), later called the Atari 2600. Nine games were designed and released for the holiday season. Atari held exclusive rights to most of the popular arcade game conversions of the day. They used this key segment to support their older hardware in the market. This game advantage and the difference in price between the machines meant that each year, Atari sold more units than Intellivision, lengthening its lead despite inferior graphics. The Atari 2600 went onto to sell over 30 million units over its lifetime, considerably more than any other console of the second generation. In 1982, Atari released the Atari 5200 in an attempt to compete with the Intellivision. While superior to the 2600, poor sales and lack of new games meant Atari only supported it for two years before it was discontinued.Early Atari 2600 cartridges contained 2 kilobytes of read-only storage. This limit grew steadily from 1978 to 1983: up to 16 kilobytes for Atari 5200 cartridges. Bank switching, a technique that allowed two different parts of the program to use the same memory addresses, was required for the larger cartridges to work. The Atari 2600 cartridges got as large as 32 kilobytes through this technique. The Atari 2600 had only 128 bytes of RAM available in the console. A few late game cartridges contained a combined RAM/ROM chip, thus adding another 256 bytes of RAM inside the cartridge itself. The Atari standard joystick was a digital controller with a single fire button released in 1977. The port of the Atari joystick was the de facto standard digital joystick specification for many years.
+
+
+=== Bally Astrocade ===
+
+The Bally Astrocade was released in 1977 and was available only through mail order. It was originally referred to as the Bally Home Library Computer. Delays in the production meant that none of the units shipped until 1978. By this time, the machine had been renamed the Bally Professional Arcade. In this form, it sold mostly at computer stores and had little retail exposure, unlike the Atari VCS. The rights to the console were sold to Astrovision in 1981. They re-released the unit with the BASIC cartridge included for free; this system was known as the Bally Computer System. When Astrovision changed their name to Astrocade in 1982 they also changed the name of the console to the Astrocade to follow suit. It sold under this name until the video game crash of 1983 when it was discontinued.
+
+
+=== Magnavox Odyssey² ===
+
+In 1978, Magnavox released its microprocessor-based console, the Odyssey², in the United States and Canada. Is was distributed by Philips Electronics in the European market and was released as the Philips G7000.  A defining feature of the system was the speech synthesis unit add-on which enhanced music, sound effects and speech capabilities. The Odyssey² was also known for its fusion of board and video games. Some titles would come with a game board and pieces which players had to use in conjunction to play the game. Although the Odyssey 2 never became as popular as the Atari consoles, it sold 2 million units throughout its lifetime. This made it the third best selling console of the generation. It was discontinued in 1984.
+
+
+=== Intellivision ===
+
+The Intellivision was introduced by Mattel to test markets in 1979 and nationally in 1980.  The Intellivision console contained a 16-bit processor with 16-bit registers and 16-bit system RAM. This was long before the "16-bit era".  Programs were however stored on 10-bit ROM. It also featured an advanced sound chip that could deliver output through three distinct sound channels.  The Intellivision was the first console with a thumb-pad directional controller and tile-based playfields with smooth, multi-directional scrolling. The system's initial production run sold out shortly after its national launch in 1980. Early cartridges were 4 kilobyte ROMs, which grew to 24 kilobytes for later games.
+The Intellivision introduced several new features to the second generation. It was the first home console to use a 16-bit microprocessor and offer downloadable content through the PlayCable service. It also provided real-time human voices during gameplay. It was the first console to pose a serious threat to Atari's dominance. A series of TV advertisements featuring George Plimpton were run. They used side-by-side game comparisons to show the improved graphics and sound compared with those of the Atari 2600. It sold over 3 million units before being discontinued in 1990.
+
+
+=== Vectrex ===
+
+The Vectrex was released in 1982. It was unique among home systems of the time in featuring vector graphics and its own self-contained display.  At the time, many of the most popular arcade games used vector displays. Through a licensing deal with Cinematronics, GCE was able to produce high-quality versions of arcade games such as Space Wars and Armor Attack. Despite a strong library of games and good reviews, the Vectrex was ultimately a commercial failure. It was on the market for less than 2 years.
+
+
+=== Comparison ===
+
+
+==== Sales standings ====
+The best-selling console of the second generation was the Atari 2600 at 30 million units. As of 1990, the Intellivision had sold 3 million units. This is around 1 million higher than the Odyssey²  and ColecoVision sales and eight times the number of purchases for the Fairchild Channel F, which was 250,000 units.
+
+
+=== Other consoles ===
+
+		
+		
+		
+		
+		
+		
+
+
+== Handheld systems ==
+The Microvision was released in 1979. It was manufactured and sold by Milton-Bradley. It was the first handheld game console that used cartridges that could be swapped out. it had a small game library which was prone to damage from static electricity. The LCD screen could also rot. These two factors contributed to its discontinuation two years after release.The Epoch Game Pocket Computer was released in Japan in 1984. It featured an LCD screen with 75 X 64 resolution and could produce graphics at about the same level as early Atari 2600 games. Due to poor sales, only five games were made for it.
+
+
+=== Comparison ===
+
+
+== Software ==
+
+
+=== Milestone titles ===
+Advanced Dungeons and Dragons: Cloudy Mountain (Intellivision) by Mattel Electronics won an award in the "1984 Best Adventure Videogame" category at the 5th Annual Arkie Awards. It was the first Intellivision cartridge to have more than 4K of ROM.
+Adventure (Atari 2600) by Atari, Inc. was the first action-adventure video game and first console fantasy game. It is considered to be an important role in the advancement of home video games and one of the best Atari 2600 titles.
+Asteroids (arcade port) (Atari 2600) was the first game on the 2600 to utilize the bank switching technique.
+Baseball (Intellivision) by Mattel was the console's best selling title with over one million copies sold.
+Demon Attack (Atari 2600) by Imagic was released in 1983. It won the 1983 Arcade Award for "Best Videogame of the Year". It was the company's best selling game and is considered a classic of the Atari 2600.
+Donkey Kong (arcade port) (ColecoVision) by Coleco was praised highly for being very faithful to the original arcade game. Critics considered it the best version out of the ColecoVision, Atari and Intellivision ports.
+E.T. the Extra-Terrestrial (Atari 2600) released in 1982 and is often accredited to being one of the worst games of all time. The game played a significant role in the video game crash of 1983.
+Microsurgeon (Intellivision) by Imagic was praised highly for its originality. It was included in "The Art of Video Games" exhibit at the Smithsonian Institution in 2012.
+Missile Command (arcade port) (Atari 2600) by Atari, Inc. was released in 1981 and went on to sell more than 2.5 million copies. This made it the third best selling game on the console.
+Pitfall! (Atari 2600) by Activision, released in 1982, was one of the best selling games for the Atari 2600, selling over 4 million copies. Pitfall popularized the side-scrolling platformer genre.
+Pitfall II: Lost Caverns (Atari 2600) by Activision, released in 1984 was one of the most technically impressive titles for the 2600. It came with a specialized audio chip on the cartridge that allowed for advanced music capabilities where music could be changed dynamically.
+River Raid (Atari 2600) by Activision was the first video game to be banned for minors in West Germany. Despite this, it was still one of the most popular titles for the Atari 2600 and won an award for "1984 Best Action Videogame".
+Space Invaders (arcade port) (Atari 2600) by Taito was the first official licensing of an arcade game and was the first "killer app" for video game consoles. Its release saw sales of the Atari 2600 quadruple and was the first title to sell 1 million copies.
+Star Wars: The Empire Strikes Back (Atari 2600) by Parker Brothers was the first officially licensed video game of the Star Wars franchise.
+Utopia (Intellivision) by Don Daglow is often credited with being the first real-time strategy that laid the foundation for many games within the genre.
+Zaxxon (arcade port) (ColecoVision) by Sega was the first home console game to utilize isometric graphics.
+
+
+== See also ==
+
+Third generation of video game consoles
+First generation of video game consoles
+Home computer (List of home computers)
+History of computing hardware (1960s–present)
+
+
+== References ==
+
+
+== External links ==
+The Dot Eaters: Pixel BoxesIn the history of computer and video games, the third generation (sometimes referred to as the 8-bit era) began on July 15, 1983, with the Japanese release of two systems: the Nintendo Family Computer (referred to in Japan in the abbreviated form Famicom, and later known as the Nintendo Entertainment System, or NES, to the rest of the world) and Sega SG-1000. This generation marked the end of the North American video game crash, and a shift in the dominance of home video games from the United States to Japan. Handheld consoles were not a major part of this generation, although the Game & Watch line from Nintendo had started in 1980 and the Milton Bradley Microvision came out in 1979 (both considered second generation hardware).
+Some features that distinguish third generation consoles from most second generation consoles include:
+
+D-pad game controllers.
+Screen modes with resolutions up to 256×240 or 320×200.
+Tile-based playfields with smooth multi-directional hardware scrolling.
+Advanced hardware scrolling, including per-pixel scrolling, multi-directional scrolling, diagonal scrolling, and line-scrolling.
+25–32 colors on screen, from a palette of 53–256 colors.
+64–100 sprites on screen, each with 4–16 colors and 8×8 to 16×16 pixel sizes.
+Up to five channel (primarily square wave) mono PSG audio.The best-selling console of this generation was the NES/Famicom from Nintendo, followed by the Sega Master System, and then the Atari 7800. Although the previous generation of consoles had also used 8-bit processors, it was at the end of the third generation that home consoles were first labeled, and marketed, by their "bits". This also came into fashion as next-generation 16-bit systems like the Sega Mega Drive/Genesis were marketed in order to differentiate between the generations of consoles. In Japan and North America, this generation was primarily dominated by the Famicom/NES, while the Master System dominated the European and Brazilian markets. The end of the 3rd generation of video games was marked by 8-bit consoles becoming obsolete in terms of their graphics and processing power (compared to 16-bit consoles).
+
+
+== History ==
+The Family Computer (commonly abbreviated the Famicom) became very popular in Japan during this era, crowding out the other consoles in this generation. The Famicom's Western counterpart, the Nintendo Entertainment System, dominated the gaming market in North America, thanks in part to its restrictive licensing agreements with developers. This marked a shift in the dominance of home video games from the United States to Japan, to the point that Computer Gaming World described the "Nintendo craze" as a "non-event" for American video game designers as "virtually all the work to date has been done in Japan." The company had an estimated 65% of 1987 hardware sales in the console market; Atari Corporation had 24%, Sega had 8%, and other companies had 3%.The popularity of the Japanese consoles grew so quickly that in 1988 Epyx stated that, in contrast to a video game-hardware industry in 1984 that the company had described as "dead", the market for Nintendo cartridges was larger than for all home-computer software. Nintendo sold seven million NES systems in 1988, almost as many as the number of Commodore 64s sold in its first five years. Compute! reported that Nintendo's popularity caused most computer-game companies to have poor sales during Christmas that year, resulting in serious financial problems for some, and after more than a decade making computer games, in 1989 Epyx converted completely to console cartridges. By 1990 30% of American households owned the NES, compared to 23% for all personal computers, and peer pressure to have a console was so great that even the children of computer-game developers demanded them despite parents' refusal and the presence of state-of-the-art computers and software at home. As Computer Gaming World reported in 1992, "No matter how fast your 486 is, you still can't play Super Mario XVII on it. The kids who don't have access to videogames are as culturally isolated as the kids in our own generation whose parents refused to buy a TV".Nintendo's market domination, while overwhelming in sheer number of units sold, was not global. Although the NES dominated the market in Japan and North America, Sega's Master System made large inroads in Europe, Oceania and Brazil, where the NES was never able to break its grip. The Atari 7800 also had a fairly successful life in the United States.
+Sega was Nintendo's main competitor during the era in terms of market share for console units sold. Unlike the NES, Sega's SG-1000 (which preceded Sega's more commercially successful Master System) initially had very little to differentiate itself from earlier consoles such as the ColecoVision and contemporary computers such as the MSX, although, despite the lack of hardware scrolling, the SG-1000 was able to pull off advanced scrolling effects, including parallax scrolling in Orguss and sprite-scaling in Zoom 909. In 1985, Sega's Master System incorporated hardware scrolling, alongside an increased colour palette, greater memory, pseudo-3D effects, and stereoscopic 3-D, gaining a clear hardware advantage over the NES. However, the NES would still continue to dominate the important North American and Japanese markets, while the Master System would gain more dominance in the emerging European and South American markets.In the following generation, Nintendo would also introduce the Game Boy, which almost single-handedly solidified and then proceeded to dominate the previously scattered handheld market for 15 years. While the Game Boy product line was incrementally updated every few years, until the Game Boy Micro and Nintendo DS, and partially the Game Boy Color, all Game Boy products were backwards compatible with the original released in 1989. Since the Game Boy's release, Nintendo had dominated the handheld market.  Additionally two popular 8-bit computers, the Commodore 64 and Amstrad CPC, were repackaged as the Commodore 64 Games System and Amstrad GX4000 respectively, for entry into the console market.
+This era contributed many influential aspects to the history of the development of video games. The third generation saw the release of many of the first console role-playing video games (RPGs). Editing and censorship of video games was often used in localizing Japanese games to North America. During this era, many of the most famous video game franchises of all time were founded that outlived the third generation and continued through releases on later consoles. Some examples are Super Mario Bros., Final Fantasy, The Legend of Zelda, Dragon Quest, Metroid, Mega Man, Metal Gear, Castlevania, Phantasy Star, Megami Tensei, Ninja Gaiden, and Bomberman.
+The third generation also saw the dawn of the children's educational console market. Although consoles such as the VideoSmarts and ComputerSmarts systems were stripped down to very primitive input systems designed for children, their use of ROM cartridges would establish this as the standard for later such consoles. Due to their reduced capacities, these systems typically were not labeled by their "bits" and were not marketed in competition with traditional video game consoles.
+
+
+=== Market share ===
+The Nintendo Entertainment System (NES)/Family Computer (Famicom) sold by far the most units of any third generation console in North America and Asia. In North America in 1989, between Nintendo and Sega, there was a 94% to 6% split between the two in market share between the NES and the Master System, in Nintendo's favor. By 1992 in North America, Nintendo had a market-share of 80%, followed by Atari's 12% and Sega's 8%. This was due to its strong lineup of first-party titles (such as Super Mario Bros., Metroid, Duck Hunt, and The Legend of Zelda), and Nintendo's strict licensing rules that required NES titles to be exclusive to the console for two years after release, putting a damper on third party support for other consoles. Atari, on the other hand, fared a bit better than the Master System in North America, but still finished a distant second place. In Europe, competition was tough for the NES, and was outsold by the Master System despite the hegemony that it had in the North American and Japanese markets.In North America The Atari 7800 and Master System were discontinued in 1992, while the NES continued to be produced for several more years. In Europe, The Master System was finally discontinued in the late 1990s. However it has continued to sell in Brazil through to the present day. In Japan, Nintendo Co., Ltd. continued to repair Famicom systems until October 31, 2007.
+
+
+== Consoles ==
+
+
+=== Comparison ===
+
+
+=== Other consoles ===
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+=== Sales comparison ===
+
+
+== Software ==
+
+
+=== Milestone titles ===
+Alex Kidd in Miracle World (SMS) by Sega featured Sega's original mascot, Alex Kidd. Although this game failed to compete with Super Mario Bros., this game was successful in PAL region as it was built in consoles by default.
+Castlevania (NES) by Konami, is loosely based on Bram Stoker's Dracula, featuring Count Dracula as main antagonist of series. This game initiated the Castlevania series.
+Dragon Ball: Dragon Daihikyō (SCV) by Epoch was the first game based upon the now long-running manga and anime series, Dragon Ball.
+Dragon Quest (NES) by Chunsoft and Enix introduced the Dragon Quest series in 1986, and has created a phenomenon in Japanese culture ever since.
+Final Fantasy (NES) by Square started the Final Fantasy series in 1987.
+The Legend of Zelda (NES) by Nintendo EAD and Nintendo  initiated the Legend of Zelda series in 1986.
+Mega Man 2 (NES) by Capcom was the breakthrough title in Capcom's Mega Man series. The series would have a number of additional hits on the NES, and would later spawn several successful spin-off series.
+Metal Gear (MSX2) by Konami initiated the Metal Gear series in 1987. It was released for the MSX2 computer and remade on the NES shortly after.
+Metroid (NES) by R&D1 and Nintendo initiated the Metroid series in 1986.
+Phantasy Star (SMS) by Sega Consumer Development Division 2 and Sega is considered one of the benchmark role-playing video games, and is among the first to use a science fiction setting, and to feature a female protagonist.
+Super Mario Bros. (NES) by Nintendo EAD and Nintendo was bundled with the NES and became the best-selling video game of all time, a title it would hold until 2009. Countless imitations of the game would appear for the course of the console generation.
+Super Mario Bros. 3 (NES) by Nintendo is widely considered the best sidescrolling platform game of the generation, as well as topping many "Best Game" lists for the NES. Its jumping physics and world map segments, where players can choose their path, served as a formula for later 2D Mario games.
+
+
+== See also ==
+
+Fourth generation of video game consoles
+Second generation of video game consoles
+History of the Nintendo Entertainment System
+Home computer
+
+
+== References ==In the history of computer and video games, the fourth generation (more commonly referred to as the 16-bit era) of game consoles began on October 30, 1987 with the Japanese release of NEC Home Electronics' PC Engine (known as the TurboGrafx-16 in North America). Although NEC released the first console of this era, sales were mostly dominated by the rivalry between Nintendo's and Sega's consoles in North America: the Super Nintendo Entertainment System (SNES; the Super Famicom in Japan) and the Sega Genesis (named the Mega Drive in other regions). Handheld systems released during this time include the Nintendo Game Boy, released in 1989, and the Sega Game Gear, first released in 1990.
+Nintendo was able to capitalize on its success in the previous, third generation, and managed to win the largest worldwide market share in the fourth generation as well. Sega, however, was extremely successful in this generation and began a new franchise, Sonic the Hedgehog, to compete with Nintendo's Super Mario series of games. Several other companies released consoles in this generation, but none of them were widely successful. Nevertheless, there were other companies that started to take notice of the maturing video game industry and begin making plans to release consoles of their own in the future.
+The emergence of fifth generation video game consoles, circa 1994, did not significantly diminish the popularity of fourth generation consoles for a few years. In 1996, however, there was a major drop in sales of hardware from this generation and a dwindling number of software publishers supporting fourth generation systems, which together led to a drop in software sales in subsequent years. Finally, this generation ended with the discontinuation of the Neo Geo in 2004.
+Some features that distinguish fourth generation consoles from third generation consoles include:
+
+16-bit microprocessors
+Multi-button game controllers with many buttons (3 to 8)
+Parallax scrolling of multi-layer tilemap backgrounds
+Large sprites (up to 64×64 or 16×512 pixels), 80–380 sprites on screen, though limited to a smaller number per scan line
+Elaborate colour, 64 to 4096 colours on screen, from palettes of 512 (9-bit) to 65,536 (16-bit) colours
+Stereo audio, with multiple channels and digital audio playback (PCM, ADPCM, streaming CD-DA audio)
+Advanced music synthesis (FM synthesis and wavetable sample-based synthesis)Additionally, in specific cases, fourth generation hardware featured:
+
+Backgrounds with pseudo-3D scaling and rotation
+Sprites that can individually be scaled and rotated
+Flat-shaded 3D polygon graphics
+CD-ROM support via add-ons, allowing larger storage space and full motion video playback
+
+
+== Home systems ==
+
+
+=== TurboGrafx-16 ===
+
+The PC Engine was the result of a collaboration between Hudson Soft and NEC and launched in Japan on October 30, 1987, under the name PC Engine. It launched in North America on August 29, 1989.
+Initially, the PC Engine was quite successful in Japan, partly due to titles available on the then-new CD-ROM format. NEC released a CD add-on in 1990 and by 1992 had released a combination TurboGrafx and CD-ROM system known as the TurboDuo.
+In the United States, NEC used Bonk, a head-banging caveman, as their mascot and featured him in most of the TurboGrafx advertising from 1990 to 1994. The platform was well received initially, especially in larger markets, but failed to make inroads into the smaller metropolitan areas where NEC did not have as many store representatives or as focused in-store promotion.
+The TurboGrafx-16 failed to maintain its sales momentum or to make a strong impact in North America. The TurboGrafx-16 and its CD combination system, the Turbo Duo, ceased manufacturing in North America by 1994, though a small amount of software continued to trickle out for the platform.
+
+
+=== Mega Drive/Genesis ===
+
+The Mega Drive was released in Japan on October 29, 1988. The console was released in New York City and Los Angeles on August 14, 1989 under the name Sega Genesis, and in the rest of North America later that year. It was launched in Europe and Australia on November 30, 1990 under its original name.
+Sega built their marketing campaign around their new mascot Sonic the Hedgehog, pushing the Genesis as the "cooler" alternative to Nintendo's console and inventing the term "Blast Processing" to suggest that the Genesis was capable of handling games with faster motion than the SNES. Their advertising was often directly adversarial, leading to commercials such as "Genesis does what Nintendon't" and the "'SEGA!' scream".When the arcade game Mortal Kombat was ported for home release on the Genesis and Super Nintendo Entertainment System, Nintendo decided to censor the game's gore, but Sega kept the content in the game, via a code entered at the start screen. Sega's version of Mortal Kombat received generally more favorable reviews in the gaming press and outsold the SNES version three to one. This also led to Congressional hearings to investigate the marketing of violent video games to children, and to the creation of the Interactive Digital Software Association and the Entertainment Software Rating Board. Sega concluded that the superior sales of their version of Mortal Kombat were outweighed by the resulting loss in consumer trust, and cancelled the game's release in Spain to avoid further controversy. With the new ESRB rating system in place, Nintendo reconsidered its position for the release of Mortal Kombat II, and this time became the preferred version among reviewers. The Toy Retail Sales Tracking Service reported that during the key shopping month of November 1994, 63% of all 16-bit video game consoles sold were Sega systems.The console was never popular in Japan (being regularly outsold by the PC Engine), but still managed to sell 40 million units worldwide. By late 1995, Sega was supporting five different consoles and two add-ons, and Sega Enterprises chose to discontinue the Mega Drive in Japan to concentrate on the new Sega Saturn. While this made perfect sense for the Japanese market, it was disastrous in North America: the market for Genesis games was much larger than for the Saturn, but Sega was left without the inventory or software to meet demand.
+
+
+=== Super NES ===
+
+Nintendo executives were initially reluctant to design a new system, but as the market transitioned to the newer hardware, Nintendo saw the erosion of the commanding market share it had built up with the Nintendo Entertainment System. Nintendo's fourth-generation console, the Super Famicom, was released in Japan on November 21, 1990; Nintendo's initial shipment of 300,000 units sold out within hours. The machine reached North America as the Super Nintendo Entertainment System on August 23, 1991, and Europe and Australia in April 1992.
+Despite stiff competition from the Mega Drive/Genesis console, the Super NES eventually took the top selling position, selling 49.10 million units worldwide, and would remain popular well into the fifth generation of consoles. Nintendo's market position was defined by their machine's increased video and sound capabilities, as well as exclusive first-party franchise titles such as F-Zero, Starfox, Donkey Kong Country, Super Mario Kart, Super Mario World, The Legend of Zelda: A Link to the Past and Super Metroid.
+
+
+=== Compact Disc Interactive (CD-i) ===
+
+The CD-i format was announced in the late '80s, with the first machines compatible with the format being released in 1991. The Phillips CD-i's main selling point was that it was more than a game machine and could be used for multimedia needs. Due to an agreement between Nintendo in Philips about an abortive CD add-on for the SNES, Philips also had rights to use some of Nintendo franchises. The CD-i was a commercial failure and was discontinued in 1998, selling only 1 million units worldwide despite several partnerships and multiple versions of the device, some made by other manufacturers.
+
+
+=== Neo Geo ===
+
+Released by SNK in 1990, the Neo Geo was a home console version of the major arcade platform. Compared to its console competition, the Neo Geo had much better graphics and sound, however the prohibitively expensive launch price of US$649.99 and games often retailing at over $250 made the console only accessible to a niche market. A less expensive version, retailing for $399.99, did not include a memory card, pack-in game or extra joystick.
+
+
+=== Add-ons ===
+Nintendo, NEC and Sega also competed with hardware peripherals for their consoles in this generation. NEC was the first with the release of the TurboGrafx CD system in 1990. Retailing for $499.99 at release, the CD add-on was not a popular purchase, but was largely responsible for the platform's success in Japan. The Sega CD was released with an unusually high price tag ($300 at its release) and a limited library of games. A unique add-on for the Sega console was Sega Channel, a subscription-based service (a form of online gaming delivery) hosted by local television providers. It required hardware that plugged into a cable line and the Genesis.
+Nintendo also made two attempts with the Satellaview and the Super Game Boy. The Satellaview was a satellite service released only in Japan and the Super Game Boy was an adapter for the SNES that allowed Game Boy games to be displayed on a TV in color. Nintendo, working along with Sony, also had plans to create a CD-ROM drive for the SNES (plans that resulted in a prototype version of the Sony PlayStation), but eventually decided not to go through with that project, opting to team up with Philips in the development of the add-on instead (contrary to popular belief, the CD-i was largely unrelated to the project).
+
+
+=== European and Australian importing ===
+
+The fourth generation was also the era when the act of buying imported US games became more established in Europe, and regular stores began to carry them. The PAL region has a refresh rate of 50 Hz (compared with 60 Hz for NTSC) and a vertical resolution of 625 interlaced lines (576 effective), compared with 525/480 for NTSC. This means that a game designed for the NTSC standard without any modification would run 17% slower and have black bars at the top and bottom when played on a PAL television. Developers often had a hard time converting games designed for the American and Japanese NTSC standard to the European and Australian PAL standard. Companies such as Konami, with large budgets and a healthy following in Europe and Australia, readily optimized several games (such as the International Superstar Soccer series) for this audience, while most smaller developers did not.
+Also, few RPGs were released in Europe because the market for the genre was not as large as in Japan or North America, and the increasing amount of time and money required for translation as RPGs became more text-heavy, in addition to the usual need to convert the games to the PAL standard, often made localizing the games to Europe a high-cost venture with little potential payoff. As a result, RPG releases in Europe were largely limited to games which had previously been localized for North America, thus reducing the amount of translation required.Popular US games imported at this time included Final Fantasy IV (known in the USA as Final Fantasy II), Final Fantasy VI (known in the USA as Final Fantasy III), Secret of Mana, Street Fighter II, Chrono Trigger, and Super Mario RPG.  Secret of Mana and Street Fighter II would eventually receive official release in Europe.
+
+
+=== Comparison ===
+
+
+=== CD Supported consoles ===
+
+		
+		
+		
+		
+
+
+=== Worldwide sales standings ===
+
+
+== Handheld systems ==
+
+The first handheld game console released in the fourth generation was the Game Boy, on April 21, 1989. It went on to dominate handheld sales by an extremely large margin, despite featuring a low-contrast, unlit monochrome screen while all three of its leading competitors had color. Three major franchises made their debut on the Game Boy: Tetris, the Game Boy's killer application; Pokémon; and Kirby. With some design (Game Boy Pocket, Game Boy Light) and hardware (Game Boy Color) changes, it continued in production in some form until 2008, enjoying a better than 18-year run.
+The Atari Lynx included hardware-accelerated color graphics, a backlight, and the ability to link up to sixteen units together in an early example of network play when its competitors could only link 2 or 4 consoles (or none at all), but its comparatively short battery life (approximately 4.5 hours on a set of alkaline cells, versus 35 hours for the Game Boy), high price, and weak games library made it one of the worst-selling handheld game systems of all time, with less than 500,000 units sold.The third major handheld of the fourth generation was the Game Gear. It featured graphics capabilities roughly comparable to the Master System (better colours, but lower resolution), a ready made games library by using the "Master-Gear" adaptor to play cartridges from the older console, and the opportunity to be converted into a portable TV using a cheap tuner adaptor, but it also suffered some of the same shortcomings as the Lynx. While it sold more than twenty times as many units as the Lynx, its bulky design – slightly larger than even the original Game Boy; relatively poor battery life – only a little better than the Lynx; and later arrival in the marketplace – competing for sales amongst the remaining buyers who didn't already have a Game Boy – hampered its overall popularity despite being more closely competitive to the Nintendo in terms of price and breadth of software library. Sega eventually retired the Game Gear in 1997, a year before Nintendo released the first examples of the Game Boy Color, to focus on the Nomad and non-portable console products.
+Other handheld consoles released during the fourth generation included the TurboExpress, a handheld version of the TurboGrafx-16 released by NEC in 1990, and the Game Boy Pocket, an improved model of the Game Boy released about two years before the debut of the Game Boy Color. While the TurboExpress was another early pioneer of color handheld gaming technology and had the added benefit of using the same game cartridges or 'HuCards' as the TurboGrafx16, it had even worse battery life than the Lynx and Game Gear – about three hours on six contemporary AA batteries – selling only 1.5 million units.
+
+
+=== List of handheld consoles ===
+
+
+=== Other ===
+
+		
+		
+
+
+== Software ==
+
+
+=== Milestone titles ===
+Chrono Trigger (SNES) by Square is frequently listed among the greatest video games of all time.
+Dragon Quest V and VI (SFC) by Chunsoft, Heartbeat, and Enix were released on the Japanese Super Famicom, as well as remakes of the first three games originally released for the NES and a dungeon crawler spin-off: Torneko's Great Adventure, which started Chun Soft's popular Fushigi no Dungeon series.
+Donkey Kong Country (SNES) by Rare and Nintendo turned the tide of the console war in favor of Nintendo and became the best-selling game since Super Mario Bros. 3, largely due to its impressive graphics.
+FIFA International Soccer (Genesis, SNES) by Extended Play Productions and EA Sports has been described as one of the most influential sports games ever made.
+Gunstar Heroes (Genesis) by Treasure and Sega is considered one of the best action games of the generation.
+John Madden Football (1990) (Genesis, SNES) by Park Place Productions and EA Sports played an important role in the early success of both the Genesis console and Electronic Arts.
+Super Metroid (SNES) by Nintendo Research & Development 1 and Nintendo is still regarded by many gaming organizations as one of the "best games of all time."
+Mortal Kombat (Arcade, Genesis, SNES) by Midway Games garnered heated controversy over its violent themes, with the uncensored Genesis version outselling the SNES version by nearly three-to-one, ultimately leading to a U.S. Congressional hearing and the creation of the Entertainment Software Rating Board.
+NHLPA Hockey '93 (Genesis, SNES) by Park Place Productions and EA Sports is considered one of the most outstanding sports games ever made.
+Phantasy Star II (Genesis) by Sega Consumer Development Division 2 and Sega has been cited as one of the best and most influential console RPGs.
+Secret of Mana (SNES) by Square reintroduced the Seiken Densetsu series, originally conceived as a Final Fantasy spin-off, to Europe and North America.
+Sonic the Hedgehog (Genesis) by Sonic Team and Sega was Sega's bid to compete head-to head with Nintendo's Mario franchise, played a critical role in the success of the Genesis, and received widespread critical acclaim as one of the greatest games ever made.
+Street Fighter II (Arcade, Genesis, SNES) by Capcom was the second game in the series to produce a lasting fanbase and set many of the trends seen in fighting games today, most notably its colorful selection of playable fighters from different countries across the globe. As of 2008, it is Capcom's best-selling consumer game of all time.
+Streets of Rage 2 (Arcade, Genesis) by Sega AM7 and Sega is considered the best beat 'em up of the generation.
+Super Monaco GP (Arcade, Genesis) by Sega set a new standard for realism in console racing games.
+Super Mario World 2: Yoshi's Island (SNES) by Nintendo Entertainment Analysis & Development (Nintendo EAD) and Nintendo is considered perhaps the finest 2D platformer.
+The Legend of Zelda: A Link to the Past (SNES) by Nintendo EAD and Nintendo courted popularity that was larger than that of its predecessors on the NES. It was one of the few action-adventures to be released early in the SNES's lifecycle. Zelda II on the NES had been mostly action-based and was side-scrolling, while A Link to the Past drew more inspiration from the original Zelda game with its top-down adventure format.
+Ys Book I & II (TurboGrafx) by Nihon Falcom was among the first video games mass released on CD-ROM, when released in Japan in 1989 and in North America in 1990. In addition to receiving praise for its story and gameplay, the game pioneered several technical features, such as voice acting, animated cut scenes, and pre-recorded soundtracks, which would become industry standards later in the decade.
+
+
+== See also ==
+
+Fifth generation of video game consoles
+Third generation of video game consoles
+
+
+== Notes ==
+
+
+== References ==The fifth-generation era (also known as the 32-bit era, the 64-bit era, or the 3D era) refers to computer and video games, video game consoles, and handheld gaming consoles dating from approximately October 1993 to May 2002. For home consoles, the best-selling console was the PlayStation (PS), followed by the Nintendo 64 (N64), and then the Sega Saturn. The PlayStation also had a redesigned version, the PSOne, which was launched in July 2000.
+For handhelds, this era was characterized by significant fragmentation, because the first handheld of the generation, the Sega Nomad, had a lifespan of just two years, and the Nintendo Virtual Boy had a lifespan of less than one. Both of them were discontinued before the other handhelds made their debut. The Neo Geo Pocket was released in 1998, but was dropped by SNK in favor of the fully backwards-compatible Neo Geo Pocket Color just a year later. Nintendo's Game Boy Color (1998) was the winner in handhelds by a large margin. There were also two simply updated versions of the original Game Boy: Game Boy Light (Japan only) and Game Boy Pocket.
+Some features that distinguished fifth generation consoles from previous fourth generation consoles include:
+
+3D polygon graphics with texture mapping
+3D graphics capabilities – lighting, Gouraud shading, anti-aliasing and texture filtering
+Optical disc (CD-ROM) game storage, allowing much larger storage space (up to 650 MB) than ROM cartridges
+CD quality audio recordings (music and speech) – PCM audio with 16-bit depth and 44.1 kHz sampling rate
+Wide adoption of full motion video, displaying pre-rendered computer animation or live action footage
+Analog controllers
+Display resolutions from 480i to 576i
+Color depth up to 16,777,216 colors (24-bit true color)This era is known for its pivotal role in the video game industry's leap from 2D to 3D computer graphics, as well as the shift from home console games being stored on ROM cartridges to optical discs. The development of the Internet eventually made it possible to store and download tape and ROM images of older games, eventually leading 7th generation consoles (such as the Xbox 360, Wii, PlayStation 3, PlayStation Portable, and Nintendo DS) to make many older games available for purchase or download, such as popular games from this generation. There was considerable time overlap between this generation and the next, the sixth generation of consoles, which began with the launch of the Dreamcast in Japan on November 27, 1998. The fifth generation officially ended with the discontinuation of the PlayStation (namely, its re-engineered form, the "PSOne") in late 2006, a year after the launch of the seventh generation.
+
+
+== History ==
+
+
+=== Transition to 3D ===
+The 32-bit/64-bit era is most noted for the rise of fully 3D polygon games. While there were games prior that had used three-dimensional polygon environments, such as Virtua Racing and Virtua Fighter in the arcades and Star Fox on the Super NES, it was in this era that many game designers began to move traditionally 2D and pseudo-3D genres into 3D on video game consoles. Early efforts from then-industry leaders Sega and Nintendo saw the introduction of the 32X and Super FX, which provided rudimentary 3D capabilities to the 16-bit Genesis and Super NES. Starting in 1996, 3D video games began to take off with releases such as Virtua Fighter 2 on the Saturn, Tomb Raider on the PlayStation and Saturn, Tekken 2 and Crash Bandicoot on the PlayStation, and Super Mario 64 on the N64. Their 3D environments were widely marketed and they steered the industry's focus away from side-scrolling and rail-style titles, as well as opening doors to more complex games and genres. 3D became the main focus in this era as well as a slow decline of cartridges in favor of CDs, due to the ability to produce games less expensively and the media's high storage capabilities.
+
+
+=== CD vs. cartridge ===
+
+After allowing Sony to develop a CD-based prototype console for them and a similar failed partnership with Philips, Nintendo decided to make the Nintendo 64 a cartridge-based system like its predecessors. Publicly, Nintendo defended this decision on the grounds that it would give games shorter load times than a compact disc (and would decrease piracy). However, it also had the dubious benefit of allowing Nintendo to charge higher licensing fees, as cartridge production was considerably more expensive than CD production. Many third-party developers like EA Sports viewed this as an underhanded attempt to raise more money for Nintendo and many of them became more reluctant to release games on the N64.Nintendo's decision to use a cartridge based system sparked a small scale war among gamers as to which was better. The chief advantages of the CD-ROM format were (1)larger storage capacity, allowing for a much greater amount of game content, (2)considerably lower manufacturing costs, making them much less risky for game publishers, (3)lower retail prices due to the reduced need to compensate for manufacturing costs. Its disadvantages compared to cartridge were (1)considerable load times, (2)their inability to load data "on the fly", making them reliant on the console RAM, and (3)the greater manufacturing costs of CD-ROM drives compared to cartridge slots, resulting in generally higher retail prices for CD-based consoles. A Nintendo magazine ad placed a Space Shuttle (cartridge) next to a snail (a CD) and dared consumers to decide "which one was better".Almost every other contemporary system used the new CD-ROM technology (the Nintendo 64 was the last major home video game console to use cartridges, until the Nintendo Switch in 2017). Consequent to the storage and cost advantages of the CD-ROM format, many game developers shifted their support away from the Nintendo 64 to the PlayStation. One of the most influential game franchises to change consoles during this era was the Final Fantasy series, beginning with Final Fantasy VII, which was originally being developed for the N64 but due to storage capacity issues was shifted to and released on the PlayStation; prior Final Fantasy games had all been published on Nintendo consoles – either the NES or Super NES, with the only other entries being on the Wonderswan, or computers like the MSX.
+
+
+=== Overview of the fifth generation consoles ===
+There was no prevailing consensus on which fifth generation console was superior. More competing consoles comprised this generation than any other since the North American video game crash of 1983, leading video game magazines of the time to frequently predict a second crash. The increased complexity of the systems also made it ambiguous how their technical capabilities would improve the games.The FM Towns Marty is considered the world's first 32-bit console (predating the Amiga CD32 and 3DO), being released in February 20, 1993 by Japanese electronic company Fujitsu. Never released outside Japan, it was largely marketed as a console version of the FM Towns home computer, being compatible with games developed for the FM Towns. It failed to make an impact in the marketplace due to its relative expense and inability to compete with home computers.NEC, creator of the TurboGrafx-16, TurboDuo, Coregrafx, and SuperGrafx, entered the market with the PC-FX in 1994. The system had a 32-bit processor, 16-bit stereo sound, a 16,777,000 color palette and featured the highest quality full motion video of any console on the market at the time. The PC-FX was a tower system that allowed for numerous expansion points including a connection for NEC's PC-9800 series of computers. Despite its impressive specs, it was marketed as the ultimate 2D side-scrolling games console and could not match the sales of the 3D systems released a short time later.
+Despite massive third party support and an unprecedented amount of hype for a first-time entrant into the industry, the 3DO Interactive Multiplayer's $700 price tag hindered its success.
+The Amiga CD32 was sold in Europe, Australia, Canada and Brazil, but never in the United States due to Commodore's bankruptcy.The 32X, an add-on console for the Genesis, was launched a short time before the Sega Saturn. The Sega Neptune, a standalone version of the 32X, was announced but ultimately canceled. Sega failed to deliver a steady flow of games for the 32X platform, and with the Saturn and PlayStation already on the horizon, sales were poor.The Sega Saturn was released as Sega's entry into the 32-bit console market. It became Sega's most successful console in Japan, but it was not the overseas commercial success that the Master System and Mega Drive had been and lagged in third place overall.
+The Atari Jaguar was released in 1993 as the world's first 64-bit system. However, sales at launch were well below the incumbent fourth generation consoles, and a small games library rooted in a shortage of third party support made it impossible for the Jaguar to catch up, selling below 250,000 units. The system's 64-bit nature was also questioned by many. The 32-bit Atari Panther, set to be released in 1991, was canceled due to unexpectedly rapid progress in developing the Jaguar.The Atari Jaguar CD, an add-on console for the Jaguar, was released in 1995. It was produced in limited quantities due to the low install base of the system.The PlayStation was the most successful console of this generation. With attention given by 3rd party developers and a more mature marketing campaign aimed at the 20-30 age group enabling it to achieve market dominance, it became the first home console to ship 100 million units worldwide.
+Because of many delays in the release of the Nintendo 64, in 1995 Nintendo released the Virtual Boy, a supposedly portable system capable of displaying true 3D graphics, albeit in monochromatic red and black. However, in practice it is not functionally portable, though it was at first marketed as such, and because of the nature of its graphical capabilities, the system reportedly caused headaches and eye strain. It was discontinued within a year, with fewer than 25 games being released for it.
+The Nintendo 64, originally announced as the "Ultra 64", was released in 1996. The system's delays and use of the expensive cartridge format made it an unpopular platform among third party developers. Several popular 1st party titles allowed the Nintendo 64 to maintain strong sales in the United States, but it remained a distant second to the PlayStation.
+
+
+=== Aftermath of the fifth generation ===
+By the end of the 1995 Christmas shopping season, the fifth generation has come down to a struggle between the Sony PlayStation, Sega Saturn, 3DO Interactive Multiplayer, and the upcoming Nintendo 64. The FM Towns Marty and Amiga CD32 had already been discontinued; the Jaguar and 32X were still on the market but were considered a lost cause by industry analysts; the Neo Geo CD had proven to appeal only to a niche market; and industry analysts had already determined that the yet-to-launch Apple Bandai Pippin was too expensive to make any impact in the market. Moreover, even the leading fifth generation consoles were still facing sluggish sales. Combined sales for the PlayStation, Saturn, and 3DO barely topped 1 million units for the Christmas shopping season, as compared to combined sales of 4 million for the Sega Genesis and Super NES. Focus groups showed that most children under 12 years old are equally happy playing on fourth generation consoles as they are playing on fifth generation consoles, making the fourth generation consoles more appealing to adults buying gifts for children, since they are cheaper. Industry analysts began putting forth the possibility that the fifth generation of consoles would never overtake the fourth generation in sales, and become superseded by a new generation of DVD player consoles before they could achieve mass acceptance.1996 saw the fifth generation consoles' fortunes finally turn around. With the Saturn, PlayStation, and Nintendo 64 all showing dramatic increases in sales over the previous year, they claimed a combined 40% of the retail market for hardware and software, putting them in position to finally overtake the fourth generation consoles in 1997.After the dust settled in the fifth generation console wars, several companies saw their outlooks change drastically. Atari Corporation, which was not able to recover its losses, ended up being purchased by JT Storage and stopped making game hardware. Sega's loss of consumer confidence (coupled with its previous console failures) along with their financial difficulties, set the company up for a similar fate in the next round of console wars.
+The Sega Saturn suffered from poor marketing and comparatively limited third-party support outside Japan. Sega's decision to use dual processors was roundly criticized, as this made it difficult to efficiently develop for the console. Sega was also hurt by a surprise four-month-early U.S. launch of their console. Third party developers, who had been planning for the originally scheduled launch, could not provide launch titles and were angered by the move. Retailers were caught unprepared, resulting in distribution problems. Some retailers, such as the now defunct KB Toys, were so furious that they refused to stock the Saturn thereafter.Due to numerous delays, the Nintendo 64 was released one year later than its competitors. By the time it was finally launched in 1996, Sony had already established its dominance, the Saturn was starting to struggle, and the Jaguar and 3DO had been discontinued. Its use of cartridge media rather than compact discs alienated some developers and publishers due to the space limits, the relatively high cost involved, and a considerably longer production time. In addition, the initially high suggested retail price of the console may have driven potential customers away, and some early adopters of the system who had paid the initial price may have been angered by Nintendo's decision to cut the price of the system by $50 six months after its release. However, the Nintendo 64 turned out to be a commercial success, particularly in the United States, where it sold 20.63 million units, nearly two third of its worldwide sales of 32.93 million units. It was also home to highly successful games such as Star Fox 64, Mario Kart 64, The Legend of Zelda: Ocarina of Time, The Legend of Zelda: Majora's Mask, Super Mario 64, GoldenEye 007, Banjo-Kazooie, and Super Smash Bros. While Nintendo 64 sold far more units than the Sega Saturn, Atari Jaguar, and 3DO combined, it posed no challenge to the PlayStation's lead in the market.
+By 1997, 40% to 60% of American homes played on video game consoles. 30% to 40% of these homes owned a console, while an additional 10% to 20% rented or shared a console. This generation was the end of many console companies.
+
+
+== Home systems ==
+
+
+=== Comparison ===
+
+
+=== Other consoles ===
+These consoles are either less notable, never saw a worldwide release, and/or have sold particularly poorly, and are therefore listed as 'Other'.
+		
+		
+		
+		
+		
+
+
+=== Add-ons ===
+
+		
+		
+
+
+=== Worldwide sales standings ===
+
+From 1996 to 1999 (when the PlayStation, N64 and Saturn were the major 5th-generation consoles still on the market) Sony managed a 47% market share of the worldwide market, followed by Nintendo with 28% (with a percentage of that figure from the 16‑bit Super NES), while Sega was third with 23% (with a percentage of that from the Dreamcast).Production of the Sega Saturn was discontinued in 1998. Its demise being accelerated by rumors that work on its successor was underway; these rumors hurt the systems' sales in the west as early as 1997. The N64 was succeeded by the GameCube in 2001, but continued its production until 2004; however, PlayStation production was not ceased as it was redesigned as the PSone, further extending the life of the console around the release of the follow-up PlayStation 2. The PlayStation console production was discontinued in 2006, the same year that the PlayStation 3 was released in Japan and North America.
+
+
+== Handheld systems ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Software ==
+
+
+=== Milestone titles ===
+Castlevania: Symphony of the Night (PlayStation, Saturn) by Konami Computer Entertainment Tokyo and Konami is considered one of the best PlayStation games available, and a strong argument for the relevance of 2D games in an increasingly 3D market.
+Crash Bandicoot (PlayStation) by Naughty Dog and Sony Computer Entertainment (SCE) would go on to become Sony's unofficial mascot along with Nintendo's Mario and Sega's Sonic the Hedgehog.  The game featured a marsupial bandicoot named Crash and would prove to be one of the PlayStation's most successful titles.
+Dragon Warrior VII (PlayStation) by Heartbeat, ArtePiazza, and Enix was the number one best-selling title on the PlayStation in Japan, released in 2000. The game was the first main installment of Japan's national RPG series released in 5 years.
+Final Fantasy VII (PlayStation, PC) by Square Product Development Division 1 and Squaresoft, is one of the PlayStation's most popular titles. It was the first game in the Final Fantasy series to make use of full motion videos (FMVs) and opened the door to the mainstream US market for Japanese-origin RPGs by SquareSoft. Final Fantasy became one of the biggest franchises in video gaming, with FFVII in particular having several spin-offs known as Compilation of Final Fantasy VII, including two sequels (a movie, and an action adventure game) and a prequel.
+GoldenEye 007 (Nintendo 64) by Rare and Nintendo is a critically acclaimed game that helped make the first-person shooter a potential popular genre on consoles. The game has subsequently become credited alongside Shiny Entertainment's MDK for pioneering and popularising the now-standard inclusion of scoped sniper rifles in video games.
+Gran Turismo (PlayStation) by Polyphony Digital and SCE broke away from the mold of traditional arcade style racing games by offering realistic physics and handling as well as a plethora of licensed vehicles.
+The Legend of Zelda: Ocarina of Time (Nintendo 64) by Nintendo EAD and Nintendo is one of the most critically acclaimed games of all time and often listed as one of the greatest video games of all time. It transferred the playing mechanics of the previous 2D Zelda adventures to a 3D environment, with a 3rd person perspective that could switch to 1st person view. It also featured mini-games involving archery, fishing, and horseback riding, and gave birth to the Z targeting system, which would become a mainstay in the series battles.
+Metal Gear Solid (PlayStation, PC) by Konami Computer Entertainment Japan and Konami received critical acclaim for its involved storyline, believable voice acting, and cinematic presentation, and is considered one of the best games of all time. The series remains a best seller for the PlayStation along with the series branching off to Xbox and other Nintendo consoles after many successes.
+The Need for Speed (3DO, PlayStation, Saturn, PC) by Pioneer Productions and Electronic Arts shot well ahead of prior racing simulators in graphics and realism, and spawned a number of sequels.
+Nights into Dreams... (Saturn) by Sonic Team and Sega was bundled with the Saturn's analog controller, which was almost essential to the gameplay. With its innovative gameplay and graphics, Nights, an exclusive title, aided in the selling of a number of Saturns.
+Panzer Dragoon Saga (Saturn) by Team Andromeda and Sega is the highest-rated Saturn title on Game Rankings with a score of 92.87%, and has been cited as one of the greatest games ever made.
+Perfect Dark (Nintendo 64) by Rare and Nintendo was critically acclaimed, building on what made GoldenEye 007 successful: making use of the Nintendo 64 expansion pack. It received a 97/100 from Metacritic.
+Pokémon Red and Blue (Game Boy) by GameFreak and Nintendo was a critical and financial success when the games debuted on the Game Boy and putting another Nintendo franchise on the map. By the end of this console generation, the games sold about 31 million units worldwide.
+Pokémon Gold & Silver (Game Boy Color) also developed by GameFreak and Nintendo garnered critical acclaim from various gaming critics, are considered by many to be the best games in the Pokémon franchise.
+Resident Evil (PlayStation, Saturn, PC) by Capcom and Silent Hill (PlayStation) by Konami Computer Entertainment Tokyo and Konami helped popularize the survival horror genre on consoles. This genre continued to grow in the sixth generation of video games, and Silent Hill and Resident Evil went on to produce many successful sequels. Both have since been adapted for films.
+Sega Rally Championship (Arcade, Saturn, PC) by Sega AM5 and Sega was the first rally racing game, broke new ground by incorporating different surfaces with different friction properties, and has been cited as one of the greatest racing games ever made.
+Star Fox 64 (Nintendo 64) by Nintendo EAD and Nintendo is the first Nintendo 64 game to use the Nintendo 64 Rumble Pak, which bundled with the game. It was a success and sold 3 million copies worldwide.
+Super Mario 64 (Nintendo 64) by Nintendo Entertainment Analysis & Development (Nintendo EAD) and Nintendo is considered to be one of the greatest games of all time, particularly for its use of a dynamic camera system, the implementation of its 360-degree analog control, and open world design. Super Mario 64 is one of the best selling home console games of the era, selling 11.62 million copies worldwide.
+Super Smash Bros. (Nintendo 64) was a breakthrough IP for Nintendo, featuring characters from Nintendo owned franchises fighting in a party styled game. Super Smash Bros. has since been succeeded by 4 additional titles in the series.
+Tekken 3 (PlayStation) is considered not only to be the greatest installment of the Tekken series, but remains as one of the greatest fighting games of all time according to PlayStation Magazine. It has a Metacritic score of 96, and is the 12th highest rated game ever according to GameRankings. Its predecessor achieved similar feats until its succession, and the first game in the franchise was the first PlayStation game to sell over a million units.
+Tomb Raider (PlayStation, Saturn, PC) by Core Design and Eidos Interactive popularized many elements seen in later video games and spawned several very successful sequels. The main character, Lara Croft, was named the most recognizable female video game character by Guinness World Records.
+Tony Hawk's Pro Skater 2 (Nintendo 64, PlayStation, PC) by Neversoft and Activision garnered widespread critical acclaim and has been cited as one of the greatest games ever made.
+Virtua Cop (Arcade, Saturn, PC) by Sega AM2 and Sega introduced the use of 3D polygons to the light-gun shooter genre, paving the way for future light gun shooters like Namco's Time Crisis and Sega's The House of the Dead, and was a major influence on GoldenEye 007.
+Virtua Fighter (Arcade, Saturn, PC) by Sega AM2 and Sega created the 3D fighting game genre. The console port, which was nearly identical to the arcade game, sold at a nearly 1:1 ratio with the Saturn hardware at launch. The original arcade version also had a major influence on the PlayStation becoming a 3D focused console.
+Virtua Fighter 2 (Arcade, Saturn, PC) by Sega AM2 and Sega was heralded at the time as "the ultimate arcade translation" and "the best fighting game ever." The title remains the highest selling Saturn game in Japan with 1.7 million copies.
+
+
+== See also ==
+
+Sixth generation of video game consoles
+Fourth generation of video game consoles
+Commodore International
+The 3DO Company
+Playdia
+
+
+== Notes ==
+
+
+== References ==In the history of video games, the sixth-generation era (sometimes called the 128-bit era; see "bits and system power" below) refers to the computer and video games, video game consoles, and handheld gaming devices available at the turn of the 21st century, starting in 1998. Platforms in the sixth generation include consoles from four companies: the Sega Dreamcast (DC), Sony PlayStation 2 (PS2), Nintendo GameCube (GC), and Microsoft Xbox. This era began on November 27, 1998, with the Japanese release of the Dreamcast, which was joined by the PlayStation 2 in March 2000, and the GameCube and Xbox in 2001. The Dreamcast was the first to be discontinued, in 2001. The GameCube was next, in 2007, the Xbox in 2009, and the PlayStation 2 in 2013. Meanwhile, the seventh generation of consoles started in November 2005 with the launch of the Xbox 360.Bit ratings (i.e. "64-bit" or "32-bit" for the previous generation) for most consoles largely fell by the wayside during this era, with the notable exceptions being promotions for the Dreamcast and PS2 that advertised "128-bit graphics" at the start of the generation. The number of "bits" cited in this way in console names refers to the CPU word size, and had been used by hardware marketing departments as a "show of power" for many years. However, there is little to be gained from increasing the word size much beyond 32 or 64 bits because, once this level is reached, performance depends on more varied factors, such as processor clock speed, bandwidth, and memory size.The sixth generation of handhelds began with the release of the Neo Geo Pocket Color by SNK in 1998 and Bandai's WonderSwan Color, launched in Japan in 1999. Nintendo maintained its dominant share of the handheld market with the release in 2001 of the Game Boy Advance, which featured many upgrades and new features over the Game Boy. The Game Boy Advance was discontinued around in early 2010. The next generation of handheld consoles began in November 2004, with the North American introduction of the Nintendo DS.
+The last official Dreamcast games were released in 2002 (North America and Europe) and 2007 (Japan). The last GameCube games were released in 2006 (Japan) and 2007 (North America and Europe). The last Xbox games were released in 2007 (Japan) and 2008 (Europe and North America). Pro Evolution Soccer 2014 was the last game for the PlayStation 2 (in Europe), which was released in November 2013. The last PS2 game, Final Fantasy XI: Rhapsodies of Vana'diel, was released in May 2015, marking the end of this generation.
+
+
+== Home systems ==
+
+The Sony PlayStation 2
+achieved sales dominance in this generation, becoming the best-selling console in history, with over 150 million units sold as of February 2011. The Microsoft Xbox had sold over 24 million units as of May 2006, and the Nintendo GameCube had sold 22 million units as of September 2010. The Sega Dreamcast, which arrived prior to all of the others and was discontinued in 2001, came in fourth with 9.13 million sold.The sixth generation began to end when the Xbox was succeeded by the Xbox 360 in late 2005. GameCube hardware was still being produced when the Wii was released in late 2006, but as of June 2008 has also been ceased. PlayStation 2 sales continued to be strong into End of 2010, due to the system's large software library, continuing software support, and affordable price.In February 2008, the PlayStation 2 outsold both the PlayStation 3 and Xbox 360 in the United States. Games were still being produced for the PlayStation 2, Xbox, and Nintendo GameCube as of 2008, while Dreamcast games were officially discontinued in 2003. There were still a few games being produced for the Dreamcast in 2004, but they are essentially NAOMI arcade ports released only in Japan, with small print runs. The PlayStation 2 was still being produced after the launch of the Wii U in 2012, making the sixth generation the second longest generation of all time.
+
+
+=== Dreamcast ===
+
+Sega's Dreamcast is the first console of the generation and had several features to show an advantage from the competition, including Internet gaming as an optional feature through its built-in modem, and a web browser.
+The console is credited with restoring Sega's reputation, which had been damaged by the earlier failures of the Sega Saturn, Sega 32X, Genesis Nomad and Sega CD. Despite this, the Dreamcast was discontinued prematurely due to numerous factors. The impending and much-hyped PlayStation 2 slowed Dreamcast sales, mostly due to the fact that the PlayStation 2 had a built-in DVD player and a huge number of PS1 owners looking to upgrade to the new, backwards-compatible console. In addition, Sega's short-lived support/success of its post-Mega Drive products the Mega-CD, 32X and Saturn had left developers and customers skeptical, with some holding out to see whether the Dreamcast or PlayStation 2 would come out on top.Sega's decision to implement a GD-ROM (though publicly advertised as a CD-ROM) for storage medium did save costs but it did not compare well against the PS2's much touted DVD capabilities. Sega was either unable or unwilling to spend the advertising money necessary to compete with Sony, which themselves took massive losses on the PlayStation 2 to gain market-share. With the announcements of the Xbox and GameCube in late 2000, Sega's console was considered by some to be outdated only two years after its release. The previous losses from the Saturn, 32X, and Sega/Mega-CD, stagnation of sales due to the PlayStation 2, and impending competition from Microsoft and Nintendo caused Sega's revenue to shrink and announce their intention on killing the system in early 2001, dropping the system entirely and leaving the console market in early 2004 in Japan and much earlier in other countries. Sega also announced it would shut down SegaNet, an online gaming community that supported online-capable Dreamcast titles. Due to user outcry over the decision, Sega delayed the service's closure by an additional 6 months.
+
+
+=== PlayStation 2 ===
+
+The brand Sony had established with the original PlayStation was a major factor in the PlayStation 2's dominance, both in terms of securing a consumer base and attracting third party developers, with the gradual increase in one reinforcing the other. The PlayStation 2 was also able to play DVDs and was backwards-compatible with PlayStation games, which many say helped the former's sales. Sony Computer Entertainment secured licensing for key games such as Final Fantasy X, Grand Theft Auto III, and Metal Gear Solid 2: Sons of Liberty, enabling the PS2 to outperform its competitors' launches. The console ended up becoming the top-selling console of this generation, while its competing consoles, the Xbox and the GameCube, went on to be modestly successful consoles.
+
+
+=== GameCube ===
+
+Nintendo struggled with conflicting brand images, particularly the family-friendly one developed during the 1990s. Its arsenal of franchises and history in the industry, though earning it a loyal fan base, failed to give it an advantage against the Xbox and PlayStation 2 which captured audiences seeking 'Mature' titles of which Nintendo had fewer. Nintendo also made little headway into online gaming (releasing a small handful of online-capable games, the most popular of which was Phantasy Star Online, which was, in fact, a port of the Dreamcast game), instead emphasizing Game Boy Advance connectivity. As a result, the Nintendo GameCube failed to match the sales of its predecessor, the Nintendo 64, but the console wasn't a financial failure. Nintendo did however rejuvenate its relationship with many developers, often working in close collaboration with them to produce games based upon its franchises, in contrast to the past where it was frequently seen as bullying developers in the late 1980s, back when the Nintendo Entertainment System was out on the market. As a result, the Nintendo GameCube had more first and second party releases than its competitors, whose most successful titles were mainly products of third-party developers.
+
+
+=== Xbox ===
+
+Although the Xbox had the formidable financial backing of Microsoft, it was unable to significantly threaten the dominance of the PlayStation 2 as market leader; however, the Xbox attracted a large fanbase and strong third-party support in the United States and Europe and became a recognizable brand amongst the mainstream. The Xbox Live online service with its centralized model proved particularly successful, prompting Sony to boost the online capabilities of the PlayStation 2. Xbox Live also gave the Xbox an edge over the GameCube, which had a near-total lack of online games. The flagship of Xbox Live was the game Halo 2, which was the best selling Xbox game with over 8 million copies sold worldwide. However, the Xbox failed to gain a following in Japan due to the fact that it didn't have as big of a stronghold as its rivals as well as the lack of commitment of Japanese games for the system.
+
+
+=== Comparison ===
+
+
+=== Worldwide sales standings ===
+
+
+=== Other consoles ===
+These consoles were created for the mass market, like the 4 consoles listed above. These, however, are less notable, never saw a worldwide release, and/or have sold particularly poorly, and are therefore listed as 'Other'.
+
+		
+		
+		
+
+
+== Bits and system power ==
+Bit ratings for consoles largely fell by the wayside after the fifth generation (32/64-bit) era. The number of "bits" cited in console names referred to the CPU word size, but there was little to be gained from increasing the word size much beyond 32 bits; performance depended on other factors, such as central processing unit speed, graphics processing unit speed, channel capacity, data storage size, and memory speed, latency, and size.
+The importance of the number of bits in the modern console gaming market has thus decreased due to the use of components that process data in varying word sizes. Previously, console manufacturers advertised the "n-bit talk" to over-emphasize the hardware capabilities of their system. The Dreamcast and the PlayStation 2 were the last systems to use the term "128-bit" in their marketing to describe their capability.
+It is not easy to compare the relative "power" of the different systems. Having a larger CPU word size does not necessarily make one console more powerful than another. Likewise, the operating frequency (clock rate, measured in terms of Hertz) of a system's CPU is not an accurate measure of performance either, except between systems of the same or similar architecture).
+The Microsoft Xbox uses a 32-bit (general purpose) CISC x86 architecture CPU, with an instruction set equal to that of the Coppermine core Mobile Celeron, though it has less cache (128 kB) than the PC equivalent. It has 64 MB RAM (shared) and runs at 733 MHz. Because the Pentium 3 introduced SSE, the Xbox also had 128-bit SIMD capabilities. Its NV2A GPU, which is very similar to the GeForce 3 Series of desktop GPUs, makes it the only console in its time with traditional vertex and pixel shaders.The Nintendo GameCube's IBM Gekko PowerPC CPU runs at 485 MHz, while its "Flipper" graphics processor is comparable to the original ATI Radeon, and it has 43 MB of non-unified memory (24 MB of 1T-SRAM, 3 MB embedded 1T-SRAM, and 16 MB DRAM). The GameCube supports Dolby Pro Logic II.The PlayStation 2's CPU (known as the "128-bit Emotion Engine") has a 64-bit core with a 32-bit FPU
+coupled to two 128 bit Vector Units, The hybrid R5900 CPU is based on MIPS architecture. The PS2 also has an internal 10 Channel DMA Bus which is fully 128 bits wide. Paths between the Emotion Engine, RAM and the Graphics synthesizer (GS) are also 128 bits wide. The PS2's unique hardware arrangement with no less than 10 processing units were difficult to come to grips with. Many developers struggled initially with programming the hardware. The PS2's Graphics Synthesizer (GS) has fast dedicated video memory, though it is limited in the amount of data it can hold, The 10 Channel 128 bit wide DMA bus could pump data to GS Memory as fast as the screen could update. Consequently, with the main memory being limited to 32mb, many of the PS2's games have reduced textures compared with versions for other consoles. It also does not have a hardware dedicated transform and lighting unit like the ones found in the Xbox and GameCube GPUs.
+However the PS2's design allows a remarkable degree of flexibility and choice. For example, Program control and general arithmetic could be handled by the CPU, while the Vector Units 0 and 1, could provide parallel processing of physics, clipping and transform and lighting to the scene. The Vector units were noted to be so versatile that Shadow of The Colossus used one of the vector units to do full Pixel shading for the fur of the Collossi.
+The Dreamcast has a 64-bit double-precision superscalar SuperH-4 RISC Central processing unit core with a 32-bit integer unit using 16-bit fixed-length instructions, a 64-bit data bus allowing a variable width of either 8, 16, 32 or 64-bits, and a 128-bit floating-point bus. The PowerVR 2DC CLX2 chipset uses a unique method of rendering a 3D scene called Tile Based Deferred Rendering (TBDR): while storing polygons in triangle strip format in memory, the display is split into tiles associated with a list of visibly overlapping triangles onto which, using a process similar to ray tracing, rays are cast and a pixel is rendered from the triangle closest to the camera. After calculating the depths associated with each polygon for one tile row in 1 cycle, the whole tile is flushed to video memory before passing on to render the next tile. Once all information has been collated for the current frame, the tiles are rendered in turn to produce the final image.
+
+
+== Handheld systems ==
+
+During the sixth generation era, the handheld game console market expanded with the introduction of new devices from many different manufacturers. Nintendo maintained its dominant share of the handheld market with the release in 2001 of the Game Boy Advance, which featured many upgrades and new features over the Game Boy. Two redesigns of this system followed, the Game Boy Advance SP in 2003 and the Game Boy Micro in 2005. Also introduced were the Neo Geo Pocket Color by SNK in 1998 and Bandai's WonderSwan Color, launched in Japan in 1999. South Korean company Game Park introduced its GP32 handheld in 2001, and with it came the dawn of open source handheld consoles. The Game Boy Advance line of handhelds has sold 81.51 million units worldwide as of September 30, 2010.A major new addition to the market was the trend for corporations to include a large number of "non-gaming" features into their handheld consoles, including cell phones, MP3 players, portable movie players, and PDA-like features. The handheld that started this trend was Nokia's N-Gage, which was released in 2003 and doubled primarily as a mobile phone. It went through a redesign in 2004 and was renamed the N-Gage QD. A second handheld, the Zodiac from Tapwave, was released in 2004; based on the Palm OS, it offered specialized gaming-oriented video and sound capabilities, but it had an unwieldy development kit due to the underlying Palm OS foundation.
+A fairly uncommon handheld of the 6th generation was the vtech V.SMILE Pocket. A handheld version of their V.SMILE home console.
+With more and more PDAs arriving during the previous generation, the difference between consumer electronics and traditional computing began to blur and cheap console technology grew as a result. It was said of PDAs that they were "the computers of handheld gaming" because of their multi-purpose capabilities and the increasingly powerful computer hardware that resided within them. This capability existed to move gaming beyond the last generation's 16-bit limitations; however, PDAs were still geared towards the typical businessman, and lacked new, affordable software franchises to compete with dedicated handheld gaming consoles.
+
+
+=== Handheld comparison ===
+
+Note: First year of release is the first year of the system's worldwide availability.
+
+
+=== Other handhelds ===
+
+		
+		
+		
+
+
+=== Sales ===
+
+
+== Trends ==
+
+
+=== Market convergence ===
+Major publishers such as Activision, Electronic Arts, and Ubisoft adopted a cross-platform strategy, releasing versions of their games for PC, all major consoles, and in some cases, handhelds as well. The sixth generation was the first to help console and computer software grow closer together as well as outperform the arcade market in features, graphics and business. The Dreamcast, which had an official Windows CE Development Kit to help porting games from PCs to Dreamcast, and the Xbox, which was made from off-the-shelf PC parts and hosted many PC ports, factored into this also.
+
+
+=== Controversial games ===
+
+While the sixth generation was not the first to have its share of controversial games, this generation was noted to have extensive criticism by public figures of "objectionable" content in gaming such as sex, crime, violence, profanity, drug use, and social propaganda as well as topics of debate such as religion, politics and economics.
+The sixth generation was also notable because it saw the continuation of lawmakers taking actions against the video game industry. The most famous were Rockstar Games' Manhunt and Grand Theft Auto games (Grand Theft Auto III and Grand Theft Auto: Vice City) facing lawsuits over alleged racial slurs and influencing minors to commit crimes, while Grand Theft Auto: San Andreas was briefly given an adult rating and removed from most stores over the availability of an abandoned sex mini-game using the Hot Coffee mod.
+The sixth generation also coincided with the September 11 attacks in New York City and the Pentagon, which had a huge impact on the entertainment industry, including the video game industry; in the subsequent market climate, multiple games were edited in response to the sensitivity surrounding the event. Prior to its release, Metal Gear Solid 2: Sons of Liberty depicted a submersible mobile fortress hijacked by terrorists destroying a good portion of Manhattan in view of the twin towers (this can be found in the "Document of Metal Gear Solid 2" making-of feature). Similarly, several undisclosed modifications were made in Grand Theft Auto III, such as a change to the police cars' color scheme (the old scheme resembled that of NYPD's older blue and white design) and altered cover art (the European release featured the original artwork); Rockstar Games estimates that the changes amounted to 1% in changed content. The Dreamcast game Propeller Arena was never officially released, possibly due to a certain level which was visually very similar to the September 11 attacks.
+
+
+=== Emulation and retro gaming ===
+
+Because of the increased computing power of video game consoles and the widespread usage of emulators, the sixth generation saw the rise of console emulation and retro gaming on a vast scale. Many games for older systems were updated with superior graphics or sound and re-released for current consoles. Commonly emulated games included those released for the Nintendo Entertainment System, the Super Nintendo Entertainment System, the Mega Drive/Genesis, the PlayStation (the PS2 can play PS1 games natively), and the Nintendo 64.
+Also during this generation, the computing power of handheld consoles became capable of supporting games made for some of the earliest gaming consoles and several companies released remakes of classic games for the handhelds. Nintendo introduced a line of NES and SNES games for its Game Boy Advance handheld, including remakes such as Final Fantasy I & II: Dawn of Souls and Nintendo's Metroid: Zero Mission. Also, an increasing number of third-party developers, including Midway Games, Capcom, Namco, Atari, and Sega, released anthology collections of some of their old games. Additionally, many video games and video game series that were originally confined to Japan were released in North America and Europe for the first time.
+
+
+=== Rise of online gaming ===
+
+Online gaming, which in previous generations had been almost an exclusive domain of PC games, became more prominent in video game consoles during this generation. The Dreamcast initiated this change with its built in modem, internet browsing software, and ability to play certain games online. The PlayStation 2, Xbox and GameCube also offered online gaming, though their approaches and commitment to it varied greatly. The Xbox offered an integrated service called Xbox Live that cost $50 per year and was only compatible with a broadband internet connection. Its ability to connect gamers for online multi-player matches was a considerable factor in allowing the Xbox to gain a foothold in the western market, especially in the first-person shooter genre. The PlayStation 2 left its online gaming service up to each individual game publisher, and though it was free to use, it was not always an ideal experience, especially with games published by small developers. The SOCOM series was one of the most popular online competitive games for the PS2. The GameCube did not offer online play for any of its first-party titles, with only Sega's Phantasy Star Online series and Homeland making official use of the console's online capabilities. In addition, online capability was not out-of-the-box; an adapter was needed to hook the GameCube to the internet.
+
+
+=== Mergers ===
+Many game publishing companies with a long established history merged with their competitors: Microsoft bought second-party developer Rare in 2002; Square merged with Enix to form Square Enix in 2003 and then later bought Taito; Sega merged with Sammy to form Sega Sammy Holdings in 2004; Konami bought a majority share of Hudson Soft; Namco merged with Bandai to form Bandai Namco Holdings in 2006.
+
+
+== Software ==
+
+
+=== Milestone titles ===
+Final Fantasy X (PS2) by Square (now Square Enix) refined many elements found in its predecessors, adding a completely different battle system. Within four days of its release in Japan the game had sold over 1.4 million copies in pre-orders, setting the record for the fastest-selling console RPG.
+Forza Motorsport (Xbox) by Turn 10 Studios and Microsoft Studios received universal critical acclaim and is considered to have set a new standard for the racing genre.
+God of War and God of War II (PS2) by Santa Monica Studio and Sony Computer Entertainment (SCE) were both released to universal acclaim from critics for their gameplay, graphics and story.
+Grand Theft Auto III, Vice City, and Grand Theft Auto: San Andreas (PS2, Xbox, PC) by Rockstar popularized "sandbox" style gameplay in an urban crime setting, which has since been widely imitated. In addition, it brought violence and other potentially objectionable content in video games back into the mainstream spotlight, thus reviving the video game controversy.
+Half-Life 2 (PC, Xbox) by Valve Corporation was praised for its advanced physics, animation, sound, AI, graphics, gameplay, and narrative, and was named Game of the Decade at the Spike Video Game Awards.
+Halo: Combat Evolved (Xbox, PC) by Bungie and Microsoft Studios was by far the most successful launch title for the Xbox. Halo 2 set records as the fastest grossing release in entertainment history  and was still very successful on the Xbox Live online gaming service until support was dropped in April 2010.
+Jet Set Radio (DC) by Smilebit and Sega received universal acclaim for its arcade-style gameplay, up-tempo music and cel-shaded visuals. It popularized the use of cel-shaded visuals in video games.
+The Legend of Zelda: The Wind Waker (GC) by Nintendo EAD and Nintendo remains one of the most critically acclaimed games of the generation. Critics praised the vivid artistry and timeless gameplay. It has a score of 96% on Metacritic, and is the fourth game to obtain a perfect score from video game reviewer Famitsu. Likewise, The Legend of Zelda: Twilight Princess (GC) proved to be another important title in the series released this generation. The title is perhaps best remembered for the excitement caused by its announcement trailer at E3 2004. It was released to widespread critical acclaim with an average of 96% on Metacritic. The game drew lots of praise for its scale and cinematic style with many reviewers declaring it the best game in the series. Likewise, it was seen as a transitional title being released on both the Gamecube and Wii - which resulted in it being the best selling title in the series since Ocarina of Time.
+Metal Gear Solid 2: Sons of Liberty (PS2, Xbox, PC) and Metal Gear Solid 3: Snake Eater (PS2) by Konami Computer Entertainment Japan and Konami improved upon the stealth genre by adding many new abilities, and for the first time in its respective genre made the surroundings nearly completely interactive. Both games achieved widespread critical acclaim, as they improved many elements from their predecessor.
+Metroid Prime (GC) by Retro Studios and Nintendo is one of the generation's highest-rated titles, with a score of 96.3 on GameRankings and a 97 on Metacritic. The game garnered critical praise and commercial success, selling more than a million units in North America alone. It was also the eighth best-selling GameCube game in Australia, and more than 78,000 copies were sold in Japan. It won a number of Game of the Year awards, and it is considered by many critics and gamers to be one of the greatest video games ever made, remaining one of the highest-rated games on Metacritic.
+NFL 2K1 (DC) by Visual Concepts and Sega was the first football game to feature online play.
+Phantasy Star Online (DC, GC, Xbox, PC) by Sonic Team and Sega, the first console MMORPG, has been cited as one of the most groundbreaking and influential games of the generation.
+Pokémon Ruby and Sapphire (GBA) Despite the fact that the games received some backlash due to connectivity issues with the older games, these games still received positive reception for adding much more innovation to the Pokémon series. They eventually became the best selling games for the Game Boy Advance, selling roughly over 16.22 million copies worldwide as of October 2013.
+Resident Evil 4 (GC, PS2, PC) by Capcom Production Studio 4 and Capcom revamped the franchise in a new, more action-oriented direction. It remains one of the highest rated games of the generation.
+Rez (DC, PS2) by United Game Artists and Sega received significant critical acclaim. The game, about a computer virus named Swayzak invading the mainframe of a computer, has been cited as one of the greatest videogames ever made and a significant example of videogames as art.
+Shadow of the Colossus (PS2) by Team Ico and SCE has been frequently cited as an example of video games as art. Many reviewers consider the game's soundtrack to be one of its greatest aspects. In addition to Roar of the Earth won the award for "Soundtrack of the Year" in the US-based video game magazine Electronic Gaming Monthly, GameSpot commented that the musical score conveyed, and often intensified, the mood of any given situation, while it was described as "one of the finest game soundtracks ever" by a reviewer from Eurogamer.
+Shenmue (DC) by Sega AM2 and Sega is regarded as a major step forward for 3D open-world gameplay, introduced the quick time event mechanic in its modern form, and has been widely cited as one of the best and most influential games ever made.
+Sonic Adventure (DC, GC, PC) by Sonic Team was the first main Sonic the Hedgehog game to feature 3D gameplay. It received a perfect score from Computer and Video Games, who called it one of the greatest video games of all time, and GamesRadar wrote it "changed the gaming world forever".
+SoulCalibur (Arcade, DC) by Project Soul and Namco is the first fighting game on any platform to have ever received a perfect 10.0 rating from IGN and GameSpot and also a perfect 40/40 (second of only fifteen games) from Japanese gaming magazine Famitsu. Soul Calibur II was a bestseller on all three consoles it was released, and was notable for featuring exclusive characters for every version released.
+Star Wars: Knights of the Old Republic (PC, Xbox) by BioWare and LucasArts has been cited as one of the best games of the generation and greatest games of all time. Its sequel, Star Wars Knights of the Old Republic II: The Sith Lords, also garnered critical acclaim.
+Super Mario Sunshine (GC) by Nintendo Entertainment Analysis & Development (Nintendo EAD) and Nintendo is the highest-rated 3D platformer of the generation with a Metacritic score of 92/100. This game was the first 3D Super Mario game which included the ability to ride Yoshi. This feature reappeared in Super Mario Galaxy 2 where the Twisty Trials Galaxy in World S is another recurring theme from Super Mario Sunshine, based on one of the missions "The Secret of Ricco Tower".
+Super Smash Bros. Melee (GC) by Hal Laboratory and Nintendo went on to become one of the most popular and most played games on the GameCube console which is a widely played competitive video game and has been featured in several high-profile tournaments. Many consider it to be the most competitively viable game in the series.
+Tekken Tag Tournament (PS2) was a launch title for the PlayStation 2, and was regarded as one of the best ever, and is also considered one of if not the most significant entry to the Tekken series. Throughout the sixth generation, Tekken Tag was the fighting game of choice for many tournaments. The game was also praised for its graphical leap from the arcade on to the then, new generation of consoles, on the PlayStation 2.
+Virtua Fighter 4 (Arcade, PS2) by Sega AM2 and Sega received universal critical acclaim, with a Metacritic score of 94/100, and is considered to have set a new standard for 3D fighting games. In Japan, the PlayStation 2 version sold 356,897 during its first week on sale in early 2002. Worldwide sales of the PS2 port exceeded 1.5 million by June 2002. On release, Famitsu magazine scored the PlayStation 2 version of the game a 37 out of 40.
+
+
+== See also ==
+
+Seventh generation of video game consoles
+Fifth generation of video game consoles
+
+
+== Notes ==
+
+^ The Game Boy Player, released in 2003, adds Game Boy Advance functionality to a GameCube. It is also backwards compatible with Game Boy and Game Boy Color games. A few titles are not supported. The Game Boy Player was sold separately upon its launch, but it was later included with select GameCube bundles.
+
+
+== References ==
