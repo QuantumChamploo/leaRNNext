@@ -2,6 +2,7 @@ from createDatabase import Database
 from lyrics_data_scrape import Artist, Song, Album
 
 results = ''
+<<<<<<< HEAD
 i = 1
 j = 1
 m = 1
@@ -37,5 +38,6 @@ for album in albums:
 		
 #change txt file name
 make_txt = open("elliottsmith_songs.txt", "w+")
+
 
 make_txt.write(results)

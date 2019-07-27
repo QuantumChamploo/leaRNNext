@@ -10,7 +10,9 @@ import time
 
 
 #path_to_file = tf.keras.utils.get_file('shakespeare.txt', 'https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt')
+
 path_to_file = "./elliottsmith_songs.txt"
+
 print (path_to_file)
 
 
@@ -159,7 +161,11 @@ checkpoint_callback=tf.keras.callbacks.ModelCheckpoint(
     filepath=checkpoint_prefix,
     save_weights_only=True)
 
+<<<<<<< HEAD
 EPOCHS=100
+=======
+EPOCHS=70
+>>>>>>> 052ad246e61a45bfa94d1ea06d9582af510e4bbc
 
 
 history = model.fit(dataset.repeat(), epochs=EPOCHS, steps_per_epoch=steps_per_epoch, callbacks=[checkpoint_callback])
@@ -179,7 +185,11 @@ def generate_text(model, start_string):
   # Evaluation step (generating text using the learned model)
 
   # Number of characters to generate
+<<<<<<< HEAD
   num_generate = 10000
+=======
+  num_generate = 1000
+>>>>>>> 052ad246e61a45bfa94d1ea06d9582af510e4bbc
 
   # Converting our start string to numbers (vectorizing)
   input_eval = [char2idx[s] for s in start_string]
@@ -211,9 +221,11 @@ def generate_text(model, start_string):
       text_generated.append(idx2char[predicted_id])
 
   return (start_string + ''.join(text_generated))
+
 results = generate_text(model, start_string=u"He ")
 print(results)
 make_txt = open("elliott_rrn_test2.txt","w+")
+
 make_txt.write(results)
 
 
